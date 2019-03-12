@@ -1,5 +1,5 @@
 # parallel-file-quicksort
-My in-progress code to implement quicksort in C++ for sorting a  CSV file, utilizing multiple threads
+My in-progress code to implement quicksort in C++ for sorting a CSV file, utilizing multiple threads, to practice working with threads and file I/O in C++ 
 
 # Instructions:
 -run the "make" command
